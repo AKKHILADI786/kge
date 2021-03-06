@@ -1,0 +1,19 @@
+.searchTerm{
+    width: 32% !important;
+}
+.search{
+    transform: translateX(350px);
+}
+.social{
+    color: white;
+    margin-left:10px ;
+    transform: translateX(-100px);
+}
+.submit_text{
+    font-size: 20px !important;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder !important;
+}
+.menu{
+    background-color: #164A41 !important;
+}
